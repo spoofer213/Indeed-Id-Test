@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purse", "Purse.csproj", "{4DF4B8F9-107B-4B1E-9FF8-54B4E612ED9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21B917A7-6CEE-48FF-A459-56D6FB954EA0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurseTests", "..\PurseTests\PurseTests.csproj", "{5A375ECE-87A9-4239-BEEE-18DDF0BB7900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF4B8F9-107B-4B1E-9FF8-54B4E612ED9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF4B8F9-107B-4B1E-9FF8-54B4E612ED9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF4B8F9-107B-4B1E-9FF8-54B4E612ED9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF4B8F9-107B-4B1E-9FF8-54B4E612ED9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A375ECE-87A9-4239-BEEE-18DDF0BB7900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A375ECE-87A9-4239-BEEE-18DDF0BB7900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A375ECE-87A9-4239-BEEE-18DDF0BB7900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A375ECE-87A9-4239-BEEE-18DDF0BB7900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B59643-0F0E-488D-8038-7CAAB4FBCD4C}
+	EndGlobalSection
+EndGlobal
